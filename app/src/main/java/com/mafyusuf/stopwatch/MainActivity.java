@@ -49,6 +49,7 @@ private  boolean wasRunning;
         savedInstanceState.putBoolean( "running", running );
         savedInstanceState.putBoolean("wasRunning", wasRunning );
 
+        //
     }
 
     public void start(View view) {
